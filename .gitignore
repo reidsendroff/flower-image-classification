@@ -1,0 +1,21 @@
+# Datasets, outputs, weights, secrets (not published)
+data/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npy
+*.npz
+.env
+.env.*
+*.key
+*.pem
+secrets*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

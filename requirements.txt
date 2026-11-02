@@ -1,0 +1,8 @@
+# Unpinned; versions have not been verified. Install a PyTorch build suited to your platform.
+torch
+torchvision
+numpy
+matplotlib
+pillow
+scikit-learn
+notebook
