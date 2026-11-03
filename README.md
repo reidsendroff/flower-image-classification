@@ -115,4 +115,4 @@ The notebooks download the [TensorFlow `flower_photos`](https://www.tensorflow.o
 
 ## Context
 
-Built by **Reid Sendroff** for Harvard Extension School's graduate **CSCI E-89 Deep Learning** course (2026).
+Built by **Reid Sendroff** ([LinkedIn](https://www.linkedin.com/in/reidsendroff)) for Harvard Extension School's graduate **CSCI E-89 Deep Learning** course (2026).
