@@ -1,8 +1,9 @@
-# Unpinned; versions have not been verified. Install a PyTorch build suited to your platform.
-torch
-torchvision
-numpy
-matplotlib
-pillow
-scikit-learn
-notebook
+# Saved outputs were produced with PyTorch 2.9.1 (CUDA 12.8). Install the torch build for your platform first.
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+Pillow>=10.0
+matplotlib>=3.7
+jupyterlab>=4.0
